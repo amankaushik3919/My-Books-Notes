@@ -12,14 +12,14 @@ Title: <u>The Big Picture</u>
 ---
 - [x] [1.1](https://github.com/amankaushik3919/My-Books-Notes/blob/main/1.1.md)
 ---
-- [x] [1.2](https://github.com/amankaushik3919/My-Books-Notes/edit/main/1.2md)
+- [x] [1.2](https://github.com/amankaushik3919/My-Books-Notes/edit/main/1.2.md)
 ---
 - [x] [1.3]([1.3.md](https://github.com/amankaushik3919/My-Books-Notes/edit/main/Chapter%201.md)https://github.com/amankaushik3919/My-Books-Notes/edit/main/1.3.md)
 ---
-- [ ] [[1.4]]
+- [ ] [1.4]
 ---
-- [ ] [[1.5]]
+- [ ] [1.5]
 ---
-- [ ] [[1.6]]
+- [ ] [1.6]
 ---
 
