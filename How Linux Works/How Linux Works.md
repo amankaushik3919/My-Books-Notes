@@ -1,4 +1,4 @@
-- [ ] [Chapter 1](https://github.com/amankaushik3919/My-Books-Notes/blob/main/Chapter%201.md)
+- [ ] [Chapter 1](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works/Chapter%201.md)
 
 - [ ] [[Chapter 2]]
 
