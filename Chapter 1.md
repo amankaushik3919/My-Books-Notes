@@ -10,7 +10,7 @@ Title: <u>The Big Picture</u>
 > steering wheel and accelerator pedal) and what to do when something goes wrong.
 
 ---
-- [x] [1.1](./1.1.md)
+- [x] [1.1](https://github.com/amankaushik3919/My-Books-Notes/blob/main/1.1.md)
 ---
 - [x] [1.2](./1.2.md)
 ---
