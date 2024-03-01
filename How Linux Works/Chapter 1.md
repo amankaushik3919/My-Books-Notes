@@ -10,16 +10,16 @@ Title: <u>The Big Picture</u>
 > steering wheel and accelerator pedal) and what to do when something goes wrong.
 
 ---
-- [x] [1.1](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works/1.1.md)
+- [x] [1.1](./1.1.md)
 ---
-- [x] [1.2](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works/1.2.md)
+- [x] [1.2](./1.2.md)
 ---
-- [x] [1.3](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works/1.3.md)
+- [x] [1.3](./1.3.md)
 ---
-- [ ] [1.4]
+- [ ] [1.4](./1.4.md)
 ---
-- [ ] [1.5]
+- [ ] [1.5](./1.5.md)
 ---
-- [ ] [1.6]
+- [ ] [1.6](./1.6.md)
 ---
 
