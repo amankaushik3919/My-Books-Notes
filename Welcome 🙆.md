@@ -1,3 +1,3 @@
-- [ ] [How Linux Works](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works.md)
+- [ x ] [How Linux Works](https://github.com/amankaushik3919/My-Books-Notes/blob/main/How%20Linux%20Works.md)
 - [ ] [Comptia Linux+ Powered by Linux Professionals]()
 - [ ] [All-in-one is all you need](All-in-one is all you need.md)
