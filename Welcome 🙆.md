@@ -1,3 +1,3 @@
-- [ ] [How Linux Works](/home/mango/Downloads/My prep/Comptia linux+/How Linux Works.md)
+- [ ] [How Linux Works](How Linux Works.md)
 - [ ] [Comptia Linux+ Powered by Linux Professionals]()
 - [ ] [All-in-one is all you need](All-in-one is all you need.md)
