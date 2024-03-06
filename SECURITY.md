@@ -2,12 +2,10 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
+Just pull every time with the new created brach and reuse it.
 | Version | Supported          |
 | ------- | ------------------ |
-| :x:     | :x:                |
+| :-:     | :-:                |
 
 ## Reporting a Vulnerability
 
