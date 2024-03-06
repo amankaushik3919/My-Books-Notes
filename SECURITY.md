@@ -11,5 +11,6 @@ Just pull every time with the new created brach and reuse it.
 
 To report an Vulnerabitlity or any issues.
 
-Just mail on (This Mail)[amankaushik3919@gmail.com].
+Just mail on [This Mail](amankaushik3919@gmail.com)
+
 
